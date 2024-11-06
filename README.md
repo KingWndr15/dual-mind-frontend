@@ -52,20 +52,5 @@ This is a Vue.js frontend application that allows users to send messages to an A
 
 You can add more styles to the response dropdown by modifying the options in the `<select>` dropdown in `MessageForm.vue`.
 
-## Screenshots
-
-Include screenshots here if you have any.
-
 ---
 
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
----
-
----
-
-### README for the Backend
-
----
