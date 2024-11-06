@@ -1,7 +1,3 @@
-### README for the Frontend
-
----
-
 # Dual Mind Chat Frontend
 
 This is a Vue.js frontend application that allows users to send messages to an AI model and select their preferred response style. The app communicates with an Express API backend to generate responses using Google's Gemini model.
