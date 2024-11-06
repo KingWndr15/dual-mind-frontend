@@ -47,6 +47,3 @@ This is a Vue.js frontend application that allows users to send messages to an A
 ## Customize
 
 You can add more styles to the response dropdown by modifying the options in the `<select>` dropdown in `MessageForm.vue`.
-
----
-
